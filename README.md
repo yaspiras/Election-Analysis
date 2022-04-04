@@ -7,8 +7,8 @@ The purpose of this election analysis is to audit a recent local congressionaly 
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
-6. Calculate the voter turn-out for each county.
-7. Calucate the percentage voter turn-out for each county.
+6. Calculate the number of votes received for each county.
+7. Calculate the percentage of votes for each county.
 8. Determine the county that has the highest voter turn-out.
 
 ## Election-Audit Results
